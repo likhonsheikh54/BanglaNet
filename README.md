@@ -60,7 +60,7 @@
 2. **Premium Services**  
    - Introduce dedicated email hosting, analytics, and custom SSL.  
 3. **Payment Gateways**  
-   - Integrate Bitcoin, PayPal, and bKash for seamless transactions.  
+   - Integrate Free .  
 
 ---
 
