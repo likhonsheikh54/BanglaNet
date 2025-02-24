@@ -72,7 +72,7 @@
 ---
 
 ## 📄 License  
-- **© 2022-2025 ADMIN.NETPL**  
+- **© 2022-2025 Likhon Sheikh**  
 - All rights reserved.  
 
 ---
